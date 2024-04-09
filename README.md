@@ -1,4 +1,4 @@
-DriveShare is a peer-to-peer car rental platform web application built with MERN stack. This project is built for CIS476 Soft Arch & Design Patterns Term Project. The course instructor is Zhuwei Xu (Tommy). The project team members are Ge Siong Lau, Muhammad Adib Halizam, and Mohamad Aidil Najmir Bin Mohamad Sobri.
+DriveShare is a peer-to-peer car rental platform web application built with MERN stack. This project is built for CIS476 Soft Arch & Design Patterns Term Project. The course instructor is Zhiwei Xu (Tommy). The project team members are Ge Siong Lau, Muhammad Adib Halizam, and Mohamad Aidil Najmir Bin Mohamad Sobri.
 
 Environment setup:
 1. Make sure you have react, nodejs, and npm installed.
