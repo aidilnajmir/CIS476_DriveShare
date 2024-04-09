@@ -6,6 +6,7 @@ class AbstractSubject {
         }
     }
 
+    // Abstract methods to be implemented by subclasses
     addObserver(observer) {
         throw new Error('Method addObserver must be implemented');
     }

@@ -1,3 +1,4 @@
+// routes to handle request related to registration, authentication, and password recovery
 const express = require('express');
 const router = express.Router();
 const { 

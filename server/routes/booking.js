@@ -1,3 +1,4 @@
+// routes to handle the requests related to car bookings and reviews
 const express = require('express');
 const router = express.Router();
 const { 

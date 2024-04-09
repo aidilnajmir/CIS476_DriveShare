@@ -1,3 +1,4 @@
+// routes to handle the requests related to sending messages, fetching messages, and notifications
 const express = require('express');
 const router = express.Router();
 const { 
