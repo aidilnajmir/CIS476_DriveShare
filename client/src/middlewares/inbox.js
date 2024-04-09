@@ -38,8 +38,10 @@ export const fetchMessagesByUser = async (userId) => {
 }
 
 // Fetch chat room messages (using userId, recipientId) function
+// Fetch chat room messages (using userId, recipientId) function
 export const fetchChatRoomMessages = async (userId, recipientId) => {
   try {
+    // GET request to fetch chat room messages
     // GET request to fetch chat room messages
     const response = await axios.get(`${API_ENDPOINT}/messages/${userId}/${recipientId}`);
     return response.data;
@@ -49,6 +51,7 @@ export const fetchChatRoomMessages = async (userId, recipientId) => {
   }
 }
 
+// Fetch notifications (using userId) function
 // Fetch notifications (using userId) function
 export const getNotificationsByUser = async (userId) => {
   try {
